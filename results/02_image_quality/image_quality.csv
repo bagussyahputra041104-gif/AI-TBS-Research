@@ -1,0 +1,5 @@
+﻿filename,width,height,brightness_mean,laplacian_variance,dark_pixels_pct,bright_pixels_pct,saturated_pixels_pct,mean_hue_saturated_pixels
+Pic_20260923152205302.png,1600,1200,51.81,347.36,65.33,4.13,97.39,76.01
+Pic_20260923152208549.png,1600,1200,52.36,464.89,64.17,4.6,94.79,86.71
+Pic_20260923152226022.png,1600,1200,42.97,288.4,69.02,1.65,98.17,75.17
+Pic_20260923152234998.png,1600,1200,48.89,462.85,65.45,3.04,95.38,86.02

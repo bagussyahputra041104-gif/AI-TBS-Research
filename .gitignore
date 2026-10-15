@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO training outputs
+runs/
+
+# Large pretrained YOLO model
+yolo11n.pt
+
+# Python model weights
+*.pt
+*.pth
+
+# Flutter
+dasboard/.dart_tool/
+dasboard/.flutter-plugins
+dasboard/.flutter-plugins-dependencies
+dasboard/.packages
+dasboard/build/
+dasboard/.idea/
+dasboard/android/.gradle/
+dasboard/android/local.properties
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
